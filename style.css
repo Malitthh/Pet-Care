@@ -1,0 +1,23 @@
+.regform {
+    border-radius: 5px;
+    background-color:ghostwhite;
+    padding: 20px;
+    
+  }
+
+button[type=submit]:hover {
+    background-color:
+}
+
+.col-11{
+    padding-bottom: 10px;
+    padding-top: 15px;
+}
+.col-sm-7{
+
+    padding-top: 5px;
+}
+
+h1{
+    font-family: 'Poppins', sans-serif;
+}
